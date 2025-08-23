@@ -79,8 +79,8 @@ NEXT_PUBLIC_DOMAIN=localhost
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/organizeit.git
-cd organizeit
+git clone https://github.com/cxvxcxv/OrganizeIt.git
+cd OrganizeIt
 ```
 
 ### 2. Setup environment variables (see [Environment Variables](#-environment-variables)).
